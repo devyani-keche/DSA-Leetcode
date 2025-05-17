@@ -12,6 +12,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +34,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Greedy
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
