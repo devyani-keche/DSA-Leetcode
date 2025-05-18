@@ -24,6 +24,7 @@ Collection of LeetCode questions!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
@@ -42,4 +43,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
