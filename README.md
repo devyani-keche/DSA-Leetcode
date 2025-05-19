@@ -11,6 +11,7 @@ Collection of LeetCode questions!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
@@ -40,6 +41,7 @@ Collection of LeetCode questions!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
@@ -61,4 +63,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
