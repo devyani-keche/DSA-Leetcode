@@ -41,6 +41,7 @@ Collection of LeetCode questions!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
