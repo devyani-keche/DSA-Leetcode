@@ -7,6 +7,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -60,6 +62,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
