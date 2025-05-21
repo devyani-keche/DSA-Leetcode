@@ -29,6 +29,7 @@ Collection of LeetCode questions!
 | [0001-two-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [1603-running-sum-of-1d-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +78,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
