@@ -34,6 +34,7 @@ Collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [1603-running-sum-of-1d-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
@@ -46,6 +47,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
@@ -71,6 +74,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +83,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3639-zero-array-transformation-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Backtracking
 |  |
@@ -88,4 +93,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
