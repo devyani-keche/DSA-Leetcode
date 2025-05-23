@@ -34,6 +34,7 @@ Collection of LeetCode questions!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions!
 | [0011-container-with-most-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 ## Sorting
 |  |
