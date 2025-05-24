@@ -36,6 +36,7 @@ Collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
@@ -82,6 +84,7 @@ Collection of LeetCode questions!
 | [0012-integer-to-roman](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -93,6 +96,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,4 +120,8 @@ Collection of LeetCode questions!
 | ------- |
 | [0136-single-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
