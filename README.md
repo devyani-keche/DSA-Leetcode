@@ -34,6 +34,7 @@ Collection of LeetCode questions!
 | [0004-median-of-two-sorted-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
