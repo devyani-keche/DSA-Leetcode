@@ -19,6 +19,7 @@ Collection of LeetCode questions!
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0283-move-zeroes) |
