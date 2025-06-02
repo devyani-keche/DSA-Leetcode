@@ -51,6 +51,7 @@ Collection of LeetCode questions!
 | [0118-pascals-triangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0135-candy) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
