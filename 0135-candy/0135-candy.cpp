@@ -8,24 +8,22 @@ public:
         for(int i=ratings.size()-1;i>0;i--){
             if(ratings[i-1]>ratings[i]) {
                 candy[i-1]=candy[i]+1;
-                // a++;
+                
             }
-            // else  a=1;
+          
             
-        }//112
+        }
   
         if(ratings[0]>ratings[1] && candy [0]<=candy[1]) candy[0]+=1;
         for(int i=0;i<ratings.size()-1;i++){
             if(ratings[i+1]>ratings[i] && candy[i+1]<=candy[i]) {
                 candy[i+1]=candy[i]+1;
-                // 123
+               
             }
-            // else if(ratings[i+1]==ratings[i]) a=1;
+           
 
-        }//1231321
-        //  for(int i=0;i<ratings.size();i++){
-       
-        //  }
+        }
+ 
          return accumulate(candy.begin(),candy.end(),0);
     }
 };
