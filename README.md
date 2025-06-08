@@ -208,4 +208,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
