@@ -66,6 +66,7 @@ Collection of LeetCode questions!
 | [0283-move-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions!
 | [0283-move-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -107,6 +109,7 @@ Collection of LeetCode questions!
 | [0229-majority-element-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
@@ -140,6 +143,7 @@ Collection of LeetCode questions!
 | [0229-majority-element-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -151,6 +155,7 @@ Collection of LeetCode questions!
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
