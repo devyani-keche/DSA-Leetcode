@@ -117,6 +117,7 @@ Collection of LeetCode questions!
 | [0008-string-to-integer-atoi](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0058-length-of-last-word) |
@@ -223,5 +224,6 @@ Collection of LeetCode questions!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
