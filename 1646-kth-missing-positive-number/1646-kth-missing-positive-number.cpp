@@ -5,7 +5,7 @@ public:
         int i=0,j=arr.size()-1;
 
         while(i<=j){
-            int mid = i + (j-i)/2;
+            int mid = (i + j)/2;
            
             if(arr[mid]-(mid+1)<k){
                 i=mid+1;
