@@ -1,11 +1,5 @@
 class Solution {
-    int maxelement(vector<int>nums){
-        int maxele=INT_MIN;
-        for(int i=0;i<nums.size();i++){
-            maxele=max(maxele,nums[i]);
-        }
-        return maxele;
-    }
+
     int cap(vector<int>nums,int hour){
         long long eat=0;
         for(int i=0;i<nums.size();i++){
@@ -16,7 +10,7 @@ class Solution {
     }
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int i=1, j =maxelement(piles);
+        int i=1, j =*max_element(piles.begin(), piles.end());
         while(i<=j){
             int mid = i + (j - i) / 2;
 
