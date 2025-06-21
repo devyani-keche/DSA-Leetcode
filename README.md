@@ -129,6 +129,7 @@ Collection of LeetCode questions!
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3194-find-words-containing-character) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions!
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -232,6 +235,7 @@ Collection of LeetCode questions!
 | [0136-single-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
