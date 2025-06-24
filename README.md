@@ -129,6 +129,7 @@ Collection of LeetCode questions!
 | [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions!
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions!
 | [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
