@@ -25,6 +25,7 @@ Collection of LeetCode questions!
 | [0118-pascals-triangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions!
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -208,6 +211,7 @@ Collection of LeetCode questions!
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -224,6 +228,7 @@ Collection of LeetCode questions!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
