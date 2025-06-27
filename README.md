@@ -86,6 +86,7 @@ Collection of LeetCode questions!
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions!
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -297,4 +299,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
