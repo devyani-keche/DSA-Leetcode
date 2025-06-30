@@ -83,6 +83,7 @@ Collection of LeetCode questions!
 | [0485-max-consecutive-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions!
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions!
 | [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -256,6 +259,7 @@ Collection of LeetCode questions!
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -269,6 +273,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
