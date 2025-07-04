@@ -55,6 +55,7 @@ Collection of LeetCode questions!
 | [0035-search-insert-position](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0066-plus-one) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0015-3sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions!
 | [0014-longest-common-prefix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -198,6 +201,7 @@ Collection of LeetCode questions!
 | [0012-integer-to-roman](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
