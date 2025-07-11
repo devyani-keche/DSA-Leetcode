@@ -23,6 +23,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions!
 | [0048-rotate-image](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0455-assign-cookies) |
