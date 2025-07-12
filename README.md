@@ -89,6 +89,7 @@ Collection of LeetCode questions!
 | [0414-third-maximum-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions!
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Quickselect
