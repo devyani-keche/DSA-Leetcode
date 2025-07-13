@@ -112,6 +112,7 @@ Collection of LeetCode questions!
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode questions!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String
 |  |
@@ -205,6 +208,7 @@ Collection of LeetCode questions!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
