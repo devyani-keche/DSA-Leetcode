@@ -103,6 +103,7 @@ Collection of LeetCode questions!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions!
 | [0345-reverse-vowels-of-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -344,11 +346,13 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Brainteaser
 |  |
 | ------- |
