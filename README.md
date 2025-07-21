@@ -200,6 +200,7 @@ Collection of LeetCode questions!
 | [0345-reverse-vowels-of-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
