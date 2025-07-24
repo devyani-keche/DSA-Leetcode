@@ -99,6 +99,7 @@ Collection of LeetCode questions!
 | [0561-array-partition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions!
 | [0561-array-partition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions!
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -318,6 +321,7 @@ Collection of LeetCode questions!
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
