@@ -82,6 +82,7 @@ Collection of LeetCode questions!
 | [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions!
 | [0169-majority-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions!
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -396,8 +399,13 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0164-maximum-gap) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
