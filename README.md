@@ -117,6 +117,7 @@ Collection of LeetCode questions!
 | [1813-maximum-erasure-value](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2048-build-array-from-permutation](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [2048-build-array-from-permutation](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
