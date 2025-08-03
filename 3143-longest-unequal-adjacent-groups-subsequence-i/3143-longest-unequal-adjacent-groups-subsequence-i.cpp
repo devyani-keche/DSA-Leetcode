@@ -2,15 +2,7 @@ class Solution {
 public:
     vector<string> getLongestSubsequence(vector<string>& words, vector<int>& groups) {
         vector<string> arr;
-        int zerocnt=0, onecnt=0,l, len1=0,len2=0;
-       
-        //count 1 and 0
-        for (int i =0;i<groups.size();i++){
-           if(groups[i]==0) zerocnt++;
-           else onecnt++;
-        }
-
-        // if(zerocnt>=onecnt){
+        int l, len1=0,len2=0;
 
             for (int i =0;i<groups.size();i++){
                 if(groups[i]==0) arr.push_back(words[i]);
