@@ -141,6 +141,7 @@ Collection of LeetCode questions!
 | [3639-zero-array-transformation-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -300,6 +301,7 @@ Collection of LeetCode questions!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3790-fruits-into-baskets-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -365,6 +367,7 @@ Collection of LeetCode questions!
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -431,8 +434,13 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1656-count-good-triplets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
