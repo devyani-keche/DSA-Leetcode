@@ -15,6 +15,7 @@ Collection of LeetCode questions!
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
@@ -450,4 +452,8 @@ Collection of LeetCode questions!
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
