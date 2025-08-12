@@ -11,6 +11,7 @@ Collection of LeetCode questions!
 | [0013-roman-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions!
 | [0038-count-and-say](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
