@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/new-21-game">867. New 21 Game</a></h2><h3>Medium</h3><hr><p>Alice plays the following game, loosely based on the card game <strong>&quot;21&quot;</strong>.</p>
+<h2><a href="https://leetcode.com/problems/new-21-game/solutions/7090539/new-21-game-100-beat-most-efficient-java-c-python-c-c-go-javascript-tyscript/?envType=daily-question&envId=2025-08-17">867. New 21 Game</a></h2><h3>Medium</h3><hr><p>Alice plays the following game, loosely based on the card game <strong>&quot;21&quot;</strong>.</p>
 
 <p>Alice starts with <code>0</code> points and draws numbers while she has less than <code>k</code> points. During each draw, she gains an integer number of points randomly from the range <code>[1, maxPts]</code>, where <code>maxPts</code> is an integer. Each draw is independent and the outcomes have equal probabilities.</p>
 
