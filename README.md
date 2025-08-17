@@ -20,6 +20,7 @@ Collection of LeetCode questions!
 | [0342-power-of-four](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions!
 | [0152-maximum-product-subarray](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -472,4 +475,5 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
