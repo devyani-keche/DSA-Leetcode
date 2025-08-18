@@ -152,6 +152,7 @@ Collection of LeetCode questions!
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -359,6 +361,7 @@ Collection of LeetCode questions!
 | [0940-fruit-into-baskets](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
 | ------- |
