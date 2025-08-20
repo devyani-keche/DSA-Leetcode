@@ -45,6 +45,7 @@ Collection of LeetCode questions!
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions!
 | [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -354,6 +356,7 @@ Collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sliding Window
 |  |
 | ------- |
