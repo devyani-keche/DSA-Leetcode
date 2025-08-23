@@ -53,6 +53,7 @@ Collection of LeetCode questions!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0342-power-of-four) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
