@@ -158,6 +158,7 @@ Collection of LeetCode questions!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
