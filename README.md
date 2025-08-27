@@ -39,6 +39,7 @@ Collection of LeetCode questions!
 | [0119-pascals-triangle-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0867-new-21-game) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions!
 | [0231-power-of-two](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
