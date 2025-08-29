@@ -157,6 +157,7 @@ Collection of LeetCode questions!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
