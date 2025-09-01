@@ -26,6 +26,7 @@ Collection of LeetCode questions!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -445,6 +447,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
