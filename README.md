@@ -29,6 +29,7 @@ Collection of LeetCode questions!
 | [2481-strictly-palindromic-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
@@ -163,6 +164,7 @@ Collection of LeetCode questions!
 | [3194-find-words-containing-character](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
 |  |
 | ------- |
@@ -493,6 +496,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1656-count-good-triplets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -511,4 +515,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
