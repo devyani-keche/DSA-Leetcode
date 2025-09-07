@@ -24,6 +24,7 @@ Collection of LeetCode questions!
 | [0900-reordered-power-of-2](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
