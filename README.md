@@ -19,6 +19,7 @@ Collection of LeetCode questions!
 | [0326-power-of-three](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0343-integer-break) |
+| [0371-sum-of-two-integers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0867-new-21-game) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions!
 | [0287-find-the-duplicate-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
