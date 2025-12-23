@@ -16,16 +16,13 @@ public:
         ListNode * p2= head->next;
         while(p1 != p2){
             if(p1 == NULL) return false;
-            else {
-                if(p1->next == nullptr) return false;
-                p1 = p1->next;
-            }
+            if(p1->next == nullptr) return false;
+            p1 = p1->next;
+            
 
         if(p2 == NULL) return false;
-            else {
-                if(p2->next == nullptr||p2->next->next == nullptr) return false;
-            p2 = p2->next->next;
-            }
+        if(p2->next == nullptr||p2->next->next == nullptr) return false;
+        p2 = p2->next->next;
         }
         return true;
     }
