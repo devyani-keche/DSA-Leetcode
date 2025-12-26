@@ -41,6 +41,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0054-spiral-matrix) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions!
 | [0027-remove-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -558,10 +561,12 @@ Collection of LeetCode questions!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
