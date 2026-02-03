@@ -187,6 +187,7 @@ Collection of LeetCode questions!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3637-trionic-array-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
