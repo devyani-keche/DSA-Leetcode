@@ -578,4 +578,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
