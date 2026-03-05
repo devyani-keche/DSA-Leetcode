@@ -292,6 +292,7 @@ Collection of LeetCode questions!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
