@@ -10,6 +10,7 @@ Collection of LeetCode questions!
 | [0012-integer-to-roman](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0202-happy-number) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions!
 | [0022-generate-parentheses](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -598,4 +600,8 @@ Collection of LeetCode questions!
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
