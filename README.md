@@ -60,6 +60,7 @@ Collection of LeetCode questions!
 | [0826-soup-servings](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
+| [0931-minimum-falling-path-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions!
 | [0748-largest-number-at-least-twice-of-others](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
