@@ -515,6 +515,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -615,4 +616,16 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
