@@ -188,6 +188,7 @@ Collection of LeetCode questions!
 | [2432-number-of-zero-filled-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2553-separate-the-digits-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions!
 | [2048-build-array-from-permutation](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
