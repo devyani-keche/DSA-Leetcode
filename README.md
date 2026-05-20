@@ -190,6 +190,7 @@ Collection of LeetCode questions!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions!
 | [1510-find-lucky-integer-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -472,6 +474,7 @@ Collection of LeetCode questions!
 | [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
