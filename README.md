@@ -174,6 +174,7 @@ Collection of LeetCode questions!
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1656-count-good-triplets) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
