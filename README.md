@@ -149,6 +149,7 @@ Collection of LeetCode questions!
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions!
 | [0350-intersection-of-two-arrays-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions!
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0900-reordered-power-of-2](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1137-height-checker](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1137-height-checker) |
@@ -407,6 +410,7 @@ Collection of LeetCode questions!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -458,6 +462,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -558,6 +563,7 @@ Collection of LeetCode questions!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Quickselect
