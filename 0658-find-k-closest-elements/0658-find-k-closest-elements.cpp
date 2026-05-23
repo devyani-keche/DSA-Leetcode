@@ -3,14 +3,9 @@ public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         priority_queue<pair<int,int>> pq;
         for(int num:arr){
-            if(pq.size()<k){
-                pq.push({abs(num-x),num});
-            } 
-            else {
-                if(abs(num-x)<abs(pq.top().second-x)){
-                    pq.pop();
-                    pq.push({abs(num-x),num});
-                }
+            pq.push({abs(num-x),num});
+            if(pq.size()>k) {
+                pq.pop();
             }
         }
         vector<int> ans;
