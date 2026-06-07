@@ -183,6 +183,7 @@ Collection of LeetCode questions!
 | [2048-build-array-from-permutation](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -646,4 +648,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
