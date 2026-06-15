@@ -246,6 +246,7 @@ Collection of LeetCode questions!
 | [0868-push-dominoes](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions!
 | [0328-odd-even-linked-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -616,6 +618,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
