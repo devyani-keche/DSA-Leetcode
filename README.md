@@ -69,6 +69,7 @@ Collection of LeetCode questions!
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Recursion
@@ -253,6 +254,7 @@ Collection of LeetCode questions!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -330,6 +332,7 @@ Collection of LeetCode questions!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3194-find-words-containing-character) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3396-valid-word](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -357,6 +360,7 @@ Collection of LeetCode questions!
 | [3075-maximize-happiness-of-selected-children](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3689-maximum-total-subarray-value-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devyani-keche/DSA-Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
