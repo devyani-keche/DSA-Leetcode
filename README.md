@@ -152,6 +152,7 @@ Collection of LeetCode questions!
 | [0628-maximum-product-of-three-numbers](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0792-binary-search) |
@@ -628,12 +629,14 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/devyani-keche/DSA-Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
