@@ -76,6 +76,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0342-power-of-four) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devyani-keche/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
